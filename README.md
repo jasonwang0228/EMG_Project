@@ -1,4 +1,4 @@
-README.md - Project documentation 
+## README.md - Project documentation 
 
 Directory Structure Explained
 data/ - All your datasets live here
@@ -32,6 +32,4 @@ Example Workflow:
     Results automatically saved to results/ → document everything in README
 
 
-
-
-## Test Commit
+# Test Commit
