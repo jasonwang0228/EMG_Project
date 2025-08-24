@@ -1,0 +1,21 @@
+# Python cache & envs
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# VS Code settings (safe to ignore)
+.vscode/*
+
+# macOS junk
+.DS_Store
+
+# Data & binaries (keep raw/large stuff out of Git)
+data/*
+!data/.gitkeep
+*.mat
+*.h5
+*.npy
+*.pkl
+*.pth
