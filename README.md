@@ -1,3 +1,5 @@
+README.md - Project documentation 
+
 Directory Structure Explained
 data/ - All your datasets live here
 
@@ -22,13 +24,14 @@ results/ - All outputs from your experiments
     Performance plots, confusion matrices
     Classification reports, accuracy tables
 
-README.md - Project documentation (crucial for your portfolio!)
-
-
-
 
 Example Workflow:
 
-Load raw data → explore in notebook → create preprocessing functions in src/
-Extract features → save to processed/ → build models in src/models.py
-Results automatically saved to results/ → document everything in README
+    Load raw data → explore in notebook → create preprocessing functions in src/
+    Extract features → save to processed/ → build models in src/models.py
+    Results automatically saved to results/ → document everything in README
+
+
+
+
+## Test Commit
