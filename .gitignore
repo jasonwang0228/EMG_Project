@@ -19,3 +19,6 @@ data/*
 *.npy
 *.pkl
 *.pth
+
+# Files with large data
+grabmyo_1.1.0/
